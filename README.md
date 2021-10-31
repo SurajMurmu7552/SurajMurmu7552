@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SurajMurmu7552
-- 👀 I’m interested in machine learning.
+- 👀 I’m interested in machine learning(kind of) and web applications.
 - 🌱 I’m currently learning mearn/mean stack.
 - 💞️ I’m looking to collaborate on fullstack application
-- 📫 How to reach me email me at surajmurmubusy@gmail.com
+- 📫 Reach me email me at surajmurmubusy@gmail.com
 
 <!---
 SurajMurmu7552/SurajMurmu7552 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
