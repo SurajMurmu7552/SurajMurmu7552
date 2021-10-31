@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurajMurmu7552
 - 👀 I’m interested in machine learning(kind of) and web applications.
-- 🌱 I’m currently learning mearn/mean stack.
+- 🌱 I’m currently learning mern/mean stack.
 - 💞️ I’m looking to collaborate on fullstack application
 - 📫 Reach me email me at surajmurmubusy@gmail.com
 
