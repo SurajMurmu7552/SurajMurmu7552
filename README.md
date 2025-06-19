@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suraj Murmu >> [Resume](https://drive.google.com/file/d/1h43sOZ8Swo-qUolIaPIIHDZEH7Rfdue5/view?usp=sharing)
+- 👋 Hi, I’m Suraj Murmu >> [Resume](https://drive.google.com/file/d/1RarH5RWcmIdolPL2CeDoSUmYAiwfghDD/view?usp=sharing)
 - 👀 I’m interested in machine learning and web applications.
 - 🌱 I’m currently learning mern/mean stack.
 - 💞️ I’m looking to collaborate on fullstack application
